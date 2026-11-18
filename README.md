@@ -7,6 +7,3 @@
 
 Это публичная витрина веб-версии: файлы обновляются автоматически скриптом
 `npm run publish:web` из закрытого рабочего репозитория.
-
-Резервная копия этих же файлов ведётся на GitVerse:
-https://gitverse.ru/LyubovKalyaganova/Igrat_Moya_bolshaya_stroyka
